@@ -1,16 +1,16 @@
-## Hi there 👋
+I'm HexDump477 👋
+Information Security Engineer | Linux & Windows Infrastructure
 
-<!--
-**HexDump477/HexDump477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 What I do
 
-Here are some ideas to get you started:
+Information security in enterprise environments
+Infrastructure administration: Astra Linux, RedOS, Windows
+Building internal security tools
+Automating deployment and hardening at scale
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech & Tools
+Python Bash PowerShell SQLite Nginx SSH Git
+Windows Server Astra Linux RedOS Systemd Ansible
+
+📌 Current projects
+Automation tools for mass deployment (SSH / PsExec)
